@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**ParnaRoyChowdhury777/ParnaRoyChowdhury777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
+### Hello folks👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me:
+
+--> I'm currently pursuing BTech in CSE from Techno Main Salt Lake.I'm a tech enthusiast and an aspiring SDE.<br>
+--> I'm a part of the Tech Team of IIC TMSL.<br>
+
+#### Tech Stack:
+
+Presently I know:<br>
+--> Python(intermediate level)<br>
+--> C,C++(beginner)<br>
+--> HTML,CSS(basic)<br>
+
+#### Connect with me:
+
+--><a
+href="https://www.linkedin.com/in/parna-roy-chowdhury-756331256" >LinkedIn</a>
