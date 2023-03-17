@@ -3,7 +3,7 @@
 
  
 ### Hello folks👋
-<h1 align="center">Hi 👋, I'm Parna Roy Chowdhury</h1>
+<h1 align="center"> I'm Parna Roy Chowdhury</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parnaroychowdhury777&label=Profile%20views&color=0e75b6&style=flat" alt="parnaroychowdhury777" /> </p>
