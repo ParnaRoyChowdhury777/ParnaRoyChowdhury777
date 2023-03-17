@@ -38,13 +38,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parnaroychowdhury777&" alt="parnaroychowdhury777" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ParnaRoyChowdhury777&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
