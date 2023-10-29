@@ -7,7 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parnaroychowdhury777&label=Profile%20views&color=0e75b6&style=flat" alt="parnaroychowdhury777" /> </p>
-[![](https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9)](https://visitcount.itsvg.in)
+
  
 
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
@@ -36,6 +36,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parnaroychowdhury777&" alt="parnaroychowdhury777" /></p>
