@@ -29,6 +29,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ParnaRoyChowdhury777&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+[![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
