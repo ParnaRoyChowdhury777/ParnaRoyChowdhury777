@@ -6,13 +6,10 @@
 <h1 align="center"> I'm Parna Roy Chowdhury</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parnaroychowdhury777&label=Profile%20views&color=0e75b6&style=flat" alt="parnaroychowdhury777" /> </p>
-
- ---
 
 [![](https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9)](https://visitcount.itsvg.in)
 
----
+
 
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
 
