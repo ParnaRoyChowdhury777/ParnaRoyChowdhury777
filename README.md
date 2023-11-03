@@ -19,9 +19,9 @@
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
 
 # 💫 About Me: 
-<h2>
+<h4>
 🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>💻Tech Team Member at IIC TMSL<br>🗣️PR and Outreach Wing Member at IIC TMSL<br>🏆Tech Enthusiast<br>📈Aspiring SDE<br>
-</h2>
+</h4>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/parna.roychowdhury777) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parna.roychowdhury.777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parna-roy-chowdhury-756331256) 
