@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
 
-# 💫 About Me: 
+# 💫 About Me: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>🔷Tech Team Member at IIC TMSL<br>🔷PR and Outreach Wing Member at IIC TMSL<br>🔷Tech Enthusiast<br>🔷Aspiring SDE<br>
 
 
