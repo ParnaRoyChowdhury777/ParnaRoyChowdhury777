@@ -4,7 +4,7 @@
 </div>
 
 
-<h1> Hello Folks <img src = "Icons/wave.gif" alt="cover" width = 50px height='50px'> </h1>
+# Hello Folks <img src = "Icons/wave.gif" alt="cover" width = 50px height='50px'> 
  
 
 <p align='center'>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
 
-# 💫 About Me:
+# 💫 About Me: 
 🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>🔷Tech Team Member at IIC TMSL<br>🔷PR and Outreach Wing Member at IIC TMSL<br>🔷Tech Enthusiast<br>🔷Aspiring SDE<br>
 
 
