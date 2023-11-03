@@ -4,8 +4,7 @@
 </div>
 
 
-# Hello Folks <img src = "Icons/wave.gif" alt="cover" width = 50px height='50px'> 
- 
+# Hello Folks 
 
 <p align='center'>
 <h1 align="center"> I'm Parna Roy Chowdhury</h1>
@@ -18,7 +17,7 @@
 
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
 
-# 💫 About Me: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
+# 💫 About Me: 
 🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>🔷Tech Team Member at IIC TMSL<br>🔷PR and Outreach Wing Member at IIC TMSL<br>🔷Tech Enthusiast<br>🔷Aspiring SDE<br>
 
 
