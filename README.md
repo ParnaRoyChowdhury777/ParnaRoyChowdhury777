@@ -1,6 +1,6 @@
 
  
-<h1> Hello Folks <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Folks <img src = "Icons/wave.gif"width = 50px height='50px'> </h1>
 <p align='center'>
 <h1 align="center"> I'm Parna Roy Chowdhury</h1>
 
