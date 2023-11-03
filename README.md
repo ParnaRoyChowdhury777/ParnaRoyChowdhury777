@@ -41,7 +41,7 @@
 
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ###
 
@@ -71,7 +71,7 @@
 ###
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ParnaRoyChowdhury777&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParnaRoyChowdhury777&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaRoyChowdhury777&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
