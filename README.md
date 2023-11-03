@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="Icons/giphy.gif" alt="cover" />
+<img width="100%" height = "300px" src="Icons/giphy.gif" alt="cover" />
 </div>
 
 
