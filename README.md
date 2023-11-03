@@ -1,10 +1,10 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="background.jpg" alt="cover" />
+<img width="100%" height = "250px" src="Icons/giphy.gif" alt="cover" />
 </div>
 
 
-# Hello Folks
+<h1> Hello Folks <img src = "Icons/wave.gif" width = 50px height='50px'> </h1>
  
 
 <p align='center'>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
 
-# 💫 About Me:
+# 💫 About Me: 
 🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>🔷Tech Team Member at IIC TMSL<br>🔷PR and Outreach Wing Member at IIC TMSL<br>🔷Tech Enthusiast<br>🔷Aspiring SDE<br>
 
 
