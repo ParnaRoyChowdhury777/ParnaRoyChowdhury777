@@ -1,5 +1,9 @@
 
- 
+<div align="center">
+<img width="100%" height = "250px" src="Icons/giphy.gif" alt="cover" />
+</div>
+
+
 <h1> Hello Folks <img src = "Icons/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 <h1 align="center"> I'm Parna Roy Chowdhury</h1>
