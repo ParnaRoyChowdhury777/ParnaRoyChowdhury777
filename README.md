@@ -4,7 +4,7 @@
 </div>
 
 
-<h1> Hello Folks <img src = "Icons/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Folks <img src = "Icons/wave.gif" alt="cover" width = 50px height='50px'> </h1>
  
 
 <p align='center'>
