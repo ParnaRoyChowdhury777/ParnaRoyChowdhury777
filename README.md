@@ -19,7 +19,7 @@
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
 
 # 💫 About Me: 
-🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>🔷Tech Team Member at IIC TMSL<br>🔷PR and Outreach Wing Member at IIC TMSL<br>🔷Tech Enthusiast<br>🔷Aspiring SDE<br>
+🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>💻Tech Team Member at IIC TMSL<br>🗣️PR and Outreach Wing Member at IIC TMSL<br>🏆Tech Enthusiast<br>📈Aspiring SDE<br>
 
 
 ## 🌐 Socials:
