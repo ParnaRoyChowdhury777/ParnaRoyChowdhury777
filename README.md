@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "300px" src="Icons/giphy.gif" alt="cover" />
+<img width="100%" height = "300px" src="https://www.dacbeachcroft.com/media/4051140/abstract-colours-3-resized.jpg" alt="cover" />
 </div>
 
 
