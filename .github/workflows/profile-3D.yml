@@ -1,0 +1,25 @@
+name: Contribution Graph
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Main Workflow
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ParnaRoyChowdhury777/3DContributionGraph@CustomFolderV3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name Parna Roy Chowdhury
+          git config user.email parnaroychowdhury2020@gmail.com
+          git pull
+          git add -A .
+          git commit -m "Update 3D Contribution Graph"
+          git push
