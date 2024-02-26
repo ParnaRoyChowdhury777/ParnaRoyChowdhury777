@@ -10,7 +10,7 @@ jobs:
     name: Main Workflow
     steps:
       - uses: actions/checkout@v3
-      - uses: ParnaRoyChowdhury777/3DContributionGraph@CustomFolderV3
+      - uses: ParnaRoyChowdhury777/3DContributionGraph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
