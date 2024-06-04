@@ -70,10 +70,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParnaRoyChowdhury777&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaRoyChowdhury777&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 3D View of my Contributions:
+/*## 3D View of my Contributions:
 
 <p><h2 style="text-decoration: none; cursor: none;">📊 <span style="color: #00c2e0">3D View of my Contributions:</span></h2></p>
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />*/
 
 ## 🏆 GitHub Trophies
 
