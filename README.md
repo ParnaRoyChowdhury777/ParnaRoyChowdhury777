@@ -1,6 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="background.jpg" alt="cover" />
-</div>
+![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hello 👋, I'm Parna Roy Chowdhury</h1>
 <h3 align="center">Learning and Exploring New Technologies</h3>
