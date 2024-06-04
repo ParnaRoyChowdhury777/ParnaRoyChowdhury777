@@ -1,25 +1,19 @@
-
 <div align="center">
 <img width="100%" height = "250px" src="background.jpg" alt="cover" />
 </div>
 
-
 # Hello Folks
- 
 
 <p align='center'>
 <h1 align="center"> I'm Parna Roy Chowdhury</h1>
 
-
-
 [![](https://visitcount.itsvg.in/api?id=ParnaRoyChowdhury777&icon=9&color=9)](https://visitcount.itsvg.in)
 
-
-
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
-<br>
+  <br>
 
-# 💫 About Me: 
+# 💫 About Me:
+
 <h4>
 🔷Currently pursuing BTech in CSE from Techno Main Salt Lake<br>💻Tech Team Member at IIC TMSL<br>🗣️PR and Outreach Wing Member at IIC TMSL<br>🏆Tech Enthusiast<br>📈Aspiring SDE<br>
 </h4>
@@ -70,21 +64,29 @@
 
 ###
 
-
 ## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ParnaRoyChowdhury777&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParnaRoyChowdhury777&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaRoyChowdhury777&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 3D View of my Contributions:
+
+<p><h2 style="text-decoration: none; cursor: none;">📊 <span style="color: #00c2e0">3D View of my Contributions:</span></h2></p>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=ParnaRoyChowdhury777&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🏅Badges
+
 [![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)
 
 ## 📈Activity Graph
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParnaRoyChowdhury777&bg_color=12092b&color=eef4eb&line=37b7e1&point=f7fdf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
