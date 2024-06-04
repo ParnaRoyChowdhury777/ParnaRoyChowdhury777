@@ -93,7 +93,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParnaRoyChowdhury777&theme=onestar" alt="ParnaRoyChowdhury777" /></a> </p><br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/roychowdhuryparna7719?theme=wtf&font=Josefin%20Slab&ext=heatmap)
+# 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/roychowdhuryparna7719?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
 
 
 # 🏅HacktoberFest Badges
