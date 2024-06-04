@@ -96,7 +96,7 @@
 # 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/roychowdhuryparna7719?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
-
+<br>
 
 # 🏅HacktoberFest Badges
 
