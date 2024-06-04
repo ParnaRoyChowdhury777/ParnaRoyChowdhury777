@@ -67,9 +67,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
 </p>
+<br>
 
-
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaRoyChowdhury777&layout=compact&theme=highcontrast" alt=ParnaRoyChowdhury777 />
@@ -87,20 +87,22 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParnaRoyChowdhury777&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParnaRoyChowdhury777&theme=github_dark" height="180em" />
 </div>
+<br>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParnaRoyChowdhury777&theme=onestar" alt="ParnaRoyChowdhury777" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParnaRoyChowdhury777&theme=onestar" alt="ParnaRoyChowdhury777" /></a> </p><br>
 
-## 🏅Badges
+# 🏅HacktoberFest Badges
 
-[![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)
+[![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)<br>
 
-## 📈Activity Graph
+# 📈Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParnaRoyChowdhury777&bg_color=12092b&color=eef4eb&line=37b7e1&point=f7fdf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
