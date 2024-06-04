@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="background.jpg" alt="cover" />
 </div>
 
-<h1 align="center">Hello Folks👋, I'm Parna Roy Chowdhury</h1>
+<h1 align="center">Hello 👋, <br>I'm Parna Roy Chowdhury</h1>
 <h3 align="center">Learning and Exploring New Technologies</h3>
 
 
