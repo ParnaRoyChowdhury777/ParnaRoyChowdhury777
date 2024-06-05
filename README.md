@@ -74,15 +74,15 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ParnaRoyChowdhury777&show_icons=true&locale=en&theme=highcontrast" alt="ParnaRoyChowdhury777" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParnaRoyChowdhury777&theme=neon-dark" alt="ParnaRoyChowdhury777" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ParnaRoyChowdhury777&theme=highcontrast" alt="ParnaRoyChowdhury777" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/ParnaRoyChowdhury777">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParnaRoyChowdhury777&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParnaRoyChowdhury777&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParnaRoyChowdhury777&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParnaRoyChowdhury777&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
 </div>
 <br>
 
