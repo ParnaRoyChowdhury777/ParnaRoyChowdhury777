@@ -81,8 +81,8 @@
 <a href="https://github.com/ParnaRoyChowdhury777">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParnaRoyChowdhury777&theme=chaurese_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParnaRoyChowdhury777&theme=chaurese_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParnaRoyChowdhury777&theme=highcontrast" height="180em" />
 </div>
 <br>
 
