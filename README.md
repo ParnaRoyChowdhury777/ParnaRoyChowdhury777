@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **ReactJS, NextJS and Backend Web Development**
 - 💬 Ask me about **DSA and Web Development**
 - 📫 How to reach me **parnaroychowdhury2020@gmail.com**
-- 👨‍💻 All of my projects are available at **https://portfolio-parnaroychowdhury777.vercel.app/**
+- 👨‍💻 All of my projects are available at <a href = "https://portfolio-parnaroychowdhury777.vercel.app/">My Portfolio</a>
 - 📄 Know about my experiences **https://drive.google.com/file/d/1gptTnaw78vv8u5p2ETn938Oar-TQzkyx/view?usp=drive_link**
 <br>
 <div> <a href="https://twitter.com/Parna55" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
