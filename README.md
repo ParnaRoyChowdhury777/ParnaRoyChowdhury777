@@ -38,7 +38,7 @@
 <a href="https://twitter.com/Parna55" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Parna55" height="30" width="40" /></a><a href="https://linkedin.com/in/parna-roy-chowdhury-756331256" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="parna-roy-chowdhury-756331256" height="30" width="40" /></a><a href="https://fb.com/parna.roychowdhury777" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="parna.roychowdhury777" height="30" width="40" /></a><a href="https://dribbble.com/PRC777" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="PRC777" height="30" width="40" /></a><a href="https://www.hackerrank.com/roychowdhurypar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="roychowdhurypar1" height="30" width="40" /></a><a href="https://www.leetcode.com/roychowdhuryparna7719" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="roychowdhuryparna7719" height="30" width="40" /></a><a href="https://discord.gg/#8783" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="#8783" height="30" width="40" /></a><a href="https://codepen.io/parna777" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="parna777" height="30" width="40" /></a><a href="https://instagram.com/parna.roychowdhury.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="parna.roychowdhury.777" height="30" width="40" /></a><a href="https://medium.com/@roychowdhuryparna7719" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@roychowdhuryparna7719" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/roychowdhurnzxb" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="roychowdhurnzxb" height="30" width="40" /></a><a href="https://dev.to/parnaroychowdhury777" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="parnaroychowdhury777" height="30" width="40" /></a><a href="https://www.codechef.com/users/roychowdhurypa" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="roychowdhurypa" height="30" width="40" /></a></p>
 <br>
 
-# 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -67,7 +67,7 @@
 </p>
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParnaRoyChowdhury777&layout=compact&theme=highcontrast" alt=ParnaRoyChowdhury777 />
@@ -86,25 +86,25 @@
 </div>
 <br>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParnaRoyChowdhury777&theme=onestar" alt="ParnaRoyChowdhury777" /></a> </p><br>
 
-# 📊 LeetCode Stats
+## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/roychowdhuryparna7719?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
 <br>
 
-# 🏅HacktoberFest Badges
+## 🏅HacktoberFest Badges
 
 [![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)<br>
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParnaRoyChowdhury777&bg_color=12092b&color=eef4eb&line=37b7e1&point=f7fdf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
