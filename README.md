@@ -93,16 +93,16 @@
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/roychowdhuryparna7719?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
-<br>
+<br><br>
 
 ## 🏅HacktoberFest Badges
 
-[![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)<br>
+[![An image of @parnaroychowdhury777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnaroychowdhury777)](https://holopin.io/@parnaroychowdhury777)<br><br>
 
 ## 📈 Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ParnaRoyChowdhury777&bg_color=12092b&color=eef4eb&line=37b7e1&point=f7fdf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
+<br><br>
 
 ## ✍️ Random Dev Quote
 
